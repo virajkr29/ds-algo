@@ -1,0 +1,7 @@
+This is the file that i have created to list all the supported browsers in here as we can see:
+
+--Firefox
+--Opera
+--Chrome
+--IE 8.0
+--Chromium
